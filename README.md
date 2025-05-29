@@ -1,4 +1,5 @@
 🛠️ Manual de Instalação do GLPI no Windows
+
 📝 Resumo Inicial
 Esta versão do GLPI foi corrigida e otimizada, com todas as funcionalidades funcionando 100%. O módulo de chamados, uma das partes mais críticas do sistema, foi especialmente melhorado para garantir que não haja mais erros na criação, visualização e gestão de chamados. A versão foi testada com sucesso em 2025, oferecendo uma experiência estável e eficiente para o gerenciamento de chamados e ativos.
 
