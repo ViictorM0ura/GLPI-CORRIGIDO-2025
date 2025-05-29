@@ -15,6 +15,7 @@ https://glpi-project.org/
 ```
 
 🚀 Passo a Passo para Instalar o GLPI no Windows
+
 1️⃣ Instalar o XAMPP
 O XAMPP é uma plataforma que fornece Apache (servidor web), MySQL/MariaDB (banco de dados) e PHP (linguagem de script), necessários para rodar o GLPI.
 
